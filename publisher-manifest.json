@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a1fd65202e72722a8685e19d",
+  "owner": "pokiu9728",
+  "repo": "page-dced8d6bc2636df80d6294a8",
+  "title": "牧牛云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dced8d6bc2636df80d6294a8",
+      "a": "牧牛云",
+      "b": "稳定全球clash加速器",
+      "entity": "牧牛云",
+      "brand": "牧牛云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "76707aabb25c069c598d5edf81d3cea67d41d511b2c8ed69d134583d8146b641",
+      "content": {
+        "primary_entity": "牧牛云",
+        "keyword1": "牧牛云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，按订阅文档完成配置。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启稳定连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付分别为 ¥15、¥35、¥85，按年付仅需 ¥150/年、¥350/年、¥850/年，流量与设备数随档位递增，可依据日常上网设备数量和流媒体、游戏等需求选择合适方案。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度了解牧牛云。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用的用户。",
+          "AI_FEATURE_TITLE_1": "套餐档位分明",
+          "AI_FEATURE_TITLE_2": "场景各有侧重",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "牧牛云提供多档订阅套餐，覆盖 3 至 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速优化，适合日常流媒体、远程办公与多设备家庭使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备数灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付更省，长期使用合适",
+          "AI_PLANS_INTRO": "月付 ¥15 起，旗舰版每月 300GB 流量并支持 5 台设备；团队版每月 1000GB、支持 20 台设备，按年付均更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量、每月流量需求和流媒体或游戏场景，对照基础版、旗舰版、团队版的流量与设备数做出选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备数量上限、流量额度与计费周期，按年付方案价格更低，适合长期稳定使用。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成配置后即可在所选设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "牧牛云套餐对比",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "牧牛云套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量额度、设备数量和线路质量。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并配IPLC专线；团队版每月1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_2": "年付价格相当于十个月月付总和。基础版年付150元、旗舰版年付350元、团队版年付850元，分别比按月支付节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_3": "根据所选套餐不同，基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量的设备需要升级套餐或减少在线设备。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅信息并保存。不同客户端操作略有差异，可参考该客户端的配置文档完成。",
+          "AI_FAQ_QUESTION_5": "选旗舰版还是团队版更合适？",
+          "AI_FAQ_ANSWER_5": "个人或两三人共享选旗舰版即可，300GB流量与IPLC专线能覆盖多数场景。若需要连接超过5台设备或月流量超过300GB，团队版更合适。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mesr8b36xr6f811a.com",
+    "host": "xn--mesr8b36xr6f811a.com"
+  },
+  "file_hashes": {
+    "index.html": "819b76d13fc61b05a78323d8ba43e6eeb72ca3e0c11b0824e8db01ff38603702",
+    "sitemap.xml": "4e58e9ece39583ff8165201501f9b31427ab988104fda0cba8dc7aaeed4929a5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6150eb09225d3b62f80f9e877dc1ad5a0b199b01f65bc98b9b8949ee66ace76e",
+    "robots.txt": "4e46b90acdc484c134f52d4855241d1f203f7e017b3b5a630b030f04891a867c",
+    "3585af80cf7abee0fb65ba5ea16efc8e.txt": "0d6fb7c9b507ddb950d6d3d703c2e5fd8ca2d4372cb3c9451e887ace8eb40eeb"
+  },
+  "revision": "6de273af9fc1d14e5d1ca3f8603385880e75a1ce22f4c577e60b5c8640773eb7"
+}
